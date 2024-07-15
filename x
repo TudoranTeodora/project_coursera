@@ -1,0 +1,1 @@
+ID	Loan Amount	Funded Amount	Funded Amount Investor	Interest Rate	Adjusted Rate	Employment Duration	Debit to Income	Open Account	Revolving Balance	...	Grade	Sub Grade	Home Ownership	Verification Status	Payment Plan	Loan Category	Initial List Status	Application Type	Loan Status	Internal Customer Segment
